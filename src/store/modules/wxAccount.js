@@ -3,7 +3,8 @@ export default {
     state: {
         ACCOUNT_TYPES:{
             1:'订阅号',
-            2:'服务号'
+            2:'服务号',
+            3:'小程序'
         },
         accountList:[],
         selectedAppid:''
